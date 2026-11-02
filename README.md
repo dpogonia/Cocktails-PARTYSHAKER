@@ -21,8 +21,8 @@ SwiftUI, Combine, URLSession.
 ## Запуск
 
 ```bash
-git clone https://github.com/dpogonia/Workshop-PartyShaker.git
-cd Workshop-PartyShaker
+git clone https://github.com/dpogonia/Cocktails-PartyShaker.git
+cd Cocktails-PartyShaker
 open Workshop23.08.xcodeproj
 ```
 
